@@ -3,7 +3,6 @@
 	"slug": "muvi-grabber",
 	"author": "<a href='https://t.me/kenzo_id'>Author</a>",
 	"author_profile": "https://profiles.wordpress.org/",
-	"donate_link": "https://trakteer.id/ucok.baba/tip?quantity=1",
 	"version": "1.0",
 	"download_url": "https://github.com/kenzopanel/muvigrabber-plugin/raw/main/muvigrabber.zip",
 	"requires": "5.6",
